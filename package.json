@@ -1,0 +1,12 @@
+{
+  "name": "clase1",
+  "version": "0.1.0",
+  "description": "curso de node.js de scalab ",
+  "main": "src/index.js",
+  "scripts": {
+    "service": "node src/index.js",
+    "http": "node src/httpExample/index.js"
+  },
+  "author": "juancariqueo",
+  "license": "ISC"
+}
